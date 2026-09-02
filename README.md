@@ -29,7 +29,7 @@ The checked-in example images illustrate the intended result:
 
 | Input | Reconstructed Sobel output |
 | --- | --- |
-| ![Example vehicle image](car3.png) | ![Example Sobel edge output](output.png) |
+| ![Example vehicle image](car.png) | ![Example Sobel edge output](output.png) |
 
 ## How the accelerator works
 
